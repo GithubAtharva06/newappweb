@@ -1,0 +1,14 @@
+D:\Blazor\newappweb\bin\Debug\net8.0\newappweb.exe
+D:\Blazor\newappweb\bin\Debug\net8.0\newappweb.deps.json
+D:\Blazor\newappweb\bin\Debug\net8.0\newappweb.runtimeconfig.json
+D:\Blazor\newappweb\bin\Debug\net8.0\newappweb.dll
+D:\Blazor\newappweb\bin\Debug\net8.0\newappweb.pdb
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.AssemblyInfoInputs.cache
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.AssemblyInfo.cs
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.csproj.CoreCompileInputs.cache
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.dll
+D:\Blazor\newappweb\obj\Debug\net8.0\refint\newappweb.dll
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.pdb
+D:\Blazor\newappweb\obj\Debug\net8.0\newappweb.genruntimeconfig.cache
+D:\Blazor\newappweb\obj\Debug\net8.0\ref\newappweb.dll
